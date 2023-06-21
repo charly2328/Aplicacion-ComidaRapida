@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ComidaRapida</string>
+    <string name="error_input_empty">Ningun campo debe estar vacio</string>
+    <string name="error_not_a_valid_email">Ingrese un correo valido por favor!</string>
+    <string name="error_not_a_valid_phone_number">Ingrese un numero de telefono valido!</string>
+    <string name="error_incorrectly_repeated_password">La contraseña no coincide</string>
+    <string name="error_invalid_credentials">El correo o la contraseña son incorrectos</string>
+    <string name="success_registration">Usuario registrado exitosamente</string>
+    <string name="success_login">Sesion iniciada correctamente</string>
+    <string name="error_unknown">Un error desconocido ha ocurrido</string>
+</resources>
